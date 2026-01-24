@@ -17,6 +17,7 @@ Hyakuren(百斂)is about turning sound into visual form. The music I chose has s
 This is the main algorithm of my system. I use Perlin Noise as a starting point. Compared to normal random values, it creates smoother data and helps the 3D shapes change in a more natural way.
 
 ![Berlin Noise Example](./images/Berlin_noise-2.png)
+
 You can also experiment with different nodes to create more visual variations.
 
 
@@ -29,6 +30,7 @@ This is the final rendering stage of my project. I use NURBS instead of polygon 
 3. Dynamic Narrative - jitter.gl.camera
 
 ![Camera View](./images/posite.png)
+
 Besides the shape, I set up multiple camera views using jet.gl.camera. The view switches based on sound data or preset logic, allowing the audience to experience the space in different ways.
 
 
@@ -41,6 +43,7 @@ Turn the toggle blue to open the visual display.
 2. Click the Play button
 
 ![Open the music](./images/Open_the_music.png)
+
 Play the music to start the audio-reactive visuals.
 ![Music and Visual](./images/music_visual.png)
 
