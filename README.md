@@ -1,6 +1,8 @@
 # Project Title
 Hyakuren(百斂) - Hundred Convergences
 
+![Pip up Session](./images/Ming.png)
+
 
 ## Short Description
 An audio-reactive visual installation that explores the relationship between natural forms and digital sound. The project turns sound into a changing 3D visual form in real time.
