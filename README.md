@@ -40,6 +40,6 @@ Play the music to start the audio-reactive visuals.
 ![Music and Visual](./images/music_visual.png)
 
 3. Different visual effects
-![Berlin Noise Example](./images/Berlin_nosie-2.png)
-![Berlin Noise Example](./images/Berlin_nosie-1.png)
+![Visual Variations](./images/Berlin_noise-2.png)
+![Visual Variations](./images/Berlin_noise-1.png)
 You can change the number to control different visual effects with music.
